@@ -1,3 +1,8 @@
+/*
+* This method determine is number prime or composite
+* The time complexity of the code is O(1)
+* The loop iterates from 1 to 9
+*/
 public class ComOrPrime {
     public static String findComOrPrime(int n) {
         int count=0;

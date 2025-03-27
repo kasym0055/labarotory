@@ -1,3 +1,8 @@
+/*
+ * This method find the minimum number from array
+ * The time complexity of the code is O(n)
+ * The loop iterates from 1 to n
+ */
 public class minNumber{
     public static int minN(int n,int[] arr){
         int min_num=arr[0];
