@@ -10,7 +10,8 @@ public class Main {
             arr[i]=scanner.nextInt();
         }
 
-        System.out.println(minNumber.minN(arr));
+        System.out.println(minNumber.minN(n,arr));
+        System.out.println(Average.average(n,arr));
 
     }
 }
